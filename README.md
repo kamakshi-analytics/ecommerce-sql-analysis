@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes Brazilian e-commerce data using MySQL to understand sales performance, product categories, customer purchasing behavior, and delivery performance.
 
-## Business Objectives
+## Business Objectives 
 - Validate data quality and table relationships.
 - Analyze order statuses and delivered product revenue.
 - Identify top-performing product categories and customer states.
